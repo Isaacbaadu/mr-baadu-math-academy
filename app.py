@@ -919,4 +919,3 @@ elif page == "Admin Dashboard" and is_admin():
 
             st.markdown("</div>", unsafe_allow_html=True)
             st.write("")
-
